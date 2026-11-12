@@ -1,81 +1,72 @@
-<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Nuruzzaman%20Nishan&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Frontend%20%26%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Nuruzzaman Nishan" width="100%" />
+  <img src="./assets/banner.svg" alt="Nuruzzaman Nishan — Web Developer, Flutter App Developer, AI-Driven Builder" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=I+turn+Figma+designs+into+pixel-perfect+websites;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Clean+code.+Responsive+UI.+Real+backends.;Based+in+Rajshahi%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing intro" />
+  <a href="https://github.com/itznishandev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Full-stack+web+apps+with+Next.js+%2B+TypeScript;Cross-platform+Android+apps+with+Flutter;AI-driven+development+with+agents+and+LLM+APIs;Building+useful+tools+for+developers+%26+everyday+users" alt="What I build" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://wellora-theta.vercel.app/"><img src="https://img.shields.io/badge/Featured-Wellora%20Live-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Wellora live" /></a>
-  <a href="https://github.com/itznishandev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <a href="mailto:itznishandev@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Let's%20Talk-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/itznishandev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itznishandev&label=Profile%20views&color=2563eb&style=flat-square" alt="Profile views" />
 </p>
 
----
-
 ## 👋 About Me
 
-I'm **Nishan**, a web developer from **Rajshahi, Bangladesh** who enjoys taking a design file and turning it into a fast, responsive, production-ready website — down to the last pixel.
+I'm **Nishan**, a developer from **Rajshahi, Bangladesh**. I build **web apps**, **Android apps** and **AI-powered tools**, and I build them **AI-first**: I work with agents like Claude Code, Antigravity and OpenCode the way a team works together. I move fast, review every line, and ship code I fully understand.
 
-I hold a **Diploma in Computer Technology**, so I understand software from the hardware up. These days I build with **Next.js and TypeScript**, and I care about the parts clients actually feel: layouts that hold up on every screen, smooth interactions, secure authentication, and code another developer can pick up without a headache.
+My **Diploma in Computer Technology** gave me a hardware-to-software foundation. Today my focus is simple: turn ideas into products people actually use.
 
-```ts
-const nishan = {
-  location: "Rajshahi, Bangladesh",
-  role: "Frontend & Full-Stack Web Developer",
-  education: "Diploma in Computer Technology",
-  stack: ["Next.js", "React", "TypeScript", "Tailwind CSS", "PostgreSQL"],
-  focus: "Figma → pixel-perfect, responsive, production-ready web apps",
-  languages: ["Bangla", "English"],
-  motto: "Learn something new, then ship it.",
-};
-```
+## ⚡ What I Do
 
----
-
-## 🛠️ Tech Stack
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Web Development</h3>
+      Full-stack apps with <b>Next.js</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>: responsive UI, real databases, secure auth and fast deployments.
+    </td>
+    <td width="33%" valign="top">
+      <h3>📱 Android Apps</h3>
+      Cross-platform mobile apps with <b>Flutter</b> and <b>Dart</b>: smooth UI, Firebase/Supabase backends and native-feeling experiences.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🤖 AI Integration</h3>
+      Apps on top of <b>LLM APIs</b> (Claude, OpenAI, DeepSeek, MiMo) and local models with <b>Ollama</b>: chatbots, assistants and automation.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,supabase,vercel,git,github,figma,vscode&theme=dark" alt="Backend & tools" />
+  <img src="./assets/stack.svg" alt="Tech stack: HTML5, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Flutter, Dart, Android, Firebase, Node.js, PostgreSQL, Supabase, Drizzle ORM, Better Auth, Git, GitHub, Vercel, Figma" width="100%" />
 </p>
 
-| Area | What I use |
-| --- | --- |
-| **Frontend** | Next.js (App Router), React, TypeScript, Tailwind CSS, HTML5, CSS3, JavaScript |
-| **Backend** | Next.js Route Handlers, PostgreSQL, Supabase, Drizzle ORM |
-| **Auth & Security** | Better Auth, session cookies + JWT, email OTP, rate limiting |
-| **Design → Code** | Figma, responsive layouts, component-driven UI |
-| **Workflow** | Git & GitHub, Vercel deployments, VS Code |
-
----
+<p align="center">
+  <img src="./assets/ai-stack.svg" alt="AI toolkit: Claude, ChatGPT, DeepSeek, MiMo, Antigravity, OpenCode, Claude Code, Ollama and their APIs" width="100%" />
+</p>
 
 ## 🚀 Featured Project
 
 ### 🩺 [Wellora — Medical Healthcare Dashboard](https://github.com/itznishandev/wellora)
 
-A full-stack healthcare admin dashboard built from a Figma UI kit — patients, appointments and analytics in one clean interface.
+A full-stack healthcare admin dashboard for patients, appointments and analytics in one clean interface.
 
-- ⚡ **Next.js + TypeScript + Tailwind CSS**, fully responsive on every device
-- 🔐 Real authentication with **Better Auth**, email OTP verification and abuse protection
-- 🗄️ **PostgreSQL on Supabase** with **Drizzle ORM**
-- 🎯 Built to match the Figma design pixel for pixel
+| | |
+| --- | --- |
+| **Frontend** | Next.js · TypeScript · Tailwind CSS · fully responsive |
+| **Backend** | PostgreSQL on Supabase · Drizzle ORM · Next.js route handlers |
+| **Security** | Better Auth · email OTP verification · rate limiting against abuse |
 
 <p>
   <a href="https://wellora-theta.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-2563eb?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
-  <a href="https://github.com/itznishandev/wellora"><img src="https://img.shields.io/badge/Source-Code-0f172a?style=flat-square&logo=github&logoColor=white" alt="Source" /></a>
+  <a href="https://github.com/itznishandev/wellora"><img src="https://img.shields.io/badge/Source-Code-0f172a?style=flat-square&logo=github&logoColor=white" alt="Source code" /></a>
 </p>
-
----
 
 ## 📂 More Work
 
@@ -88,36 +79,37 @@ A full-stack healthcare admin dashboard built from a Figma UI kit — patients, 
 | [**gamer-zone**](https://github.com/itznishandev/gamer-zone) | Gaming-themed website layout |
 | [**fruit-brust**](https://github.com/itznishandev/fruit-brust) | Fresh, colourful landing page for a fruit brand |
 
----
+## 🔭 What's Next
+
+- 🛠️ **Useful tools.** Open-source utilities and AI-powered apps that solve real, everyday problems.
+- 🤝 **A developer community.** A space for Bangladeshi developers to learn, build and grow together with AI.
+- 📱 **More Flutter apps.** Shipping polished Android apps alongside my web work.
+
+> Want early access or want to collaborate? [Send me a message](mailto:itznishandev@gmail.com).
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=itznishandev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itznishandev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&langs_count=6" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=itznishandev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=60a5fa" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=itznishandev&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itznishandev/itznishandev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itznishandev/itznishandev/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/itznishandev/itznishandev/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itznishandev&bg_color=0d1117&color=3b82f6&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-</p>
+## 🤝 Let's Work Together
 
----
-
-## 🤝 Work With Me
-
-I'm open to **freelance projects, internships and full-time web developer roles**. If you have a Figma design that needs to come alive, or a web app that needs a solid frontend and backend, let's talk.
+I'm open to **freelance projects, internships and full-time roles** in web, mobile or AI. Have an idea? Let's build it.
 
 <p align="center">
-  <a href="mailto:itznishandev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:itznishandev@gmail.com"><img src="https://img.shields.io/badge/Email-itznishandev%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/itznishandev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/itznishandev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" alt="" width="100%" />
+  <sub>Built with ☕ in Rajshahi, Bangladesh</sub>
 </p>
